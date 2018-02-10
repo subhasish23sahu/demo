@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.support.SpringBootServletInitializer;
 
-/*Spring Boot Demo*/
+/*Spring Boot*/
 @SpringBootApplication
 public class SpringBootWebApplication extends SpringBootServletInitializer {
 
